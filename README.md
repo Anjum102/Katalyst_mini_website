@@ -1,1 +1,2 @@
-# Katalyst_mini_website
+# katalyst-project
+it is an mental health related website
